@@ -1,2 +1,3 @@
-# engineapp-explorer
-Engine App Explorer
+# Engine App Explorer
+
+Copyright by eiquidus
